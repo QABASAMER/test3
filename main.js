@@ -1,6 +1,6 @@
 //import {loadGLTF} from "../../libs/loader.js";
 
-import {loadGLTF} from "/QABASAMER/test3/tree/main/libs//loader.js";
+import {loadGLTF} from "/QABASAMER/test3/tree/main/libs/loader.js";
 const THREE = window.MINDAR.IMAGE.THREE;
 
 document.addEventListener('DOMContentLoaded', () => {
